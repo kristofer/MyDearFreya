@@ -70,7 +70,7 @@ chroot () {
 
 chrome () {
 
-	sh -e crouton -r trusty -t x11,extension -n freya
+	sh -e crouton -r xenial -t x11,extension -n freya
     echo ==================================================
     echo ==================================================
     echo ==================================================
